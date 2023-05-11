@@ -1,0 +1,25 @@
+{
+  "name": "com.bytework.filepicker",
+  "version": "0.1.0",
+  "displayName": "FilePicker",
+  "description": "FilePicker",
+  "category": "",
+  "documentationUrl": "",
+  "_upm": {
+    "changelog": "init commit"
+  },
+  "changelogUrl": "",
+  "license": "MIT",
+  "licensesUrl": "",
+
+  "dependencies": {
+  },
+  "relatedPackages": {
+  },
+  "keywords": [
+    "unity file picker"
+  ],
+  "author": {
+    "name": "bytework"
+  }
+}
